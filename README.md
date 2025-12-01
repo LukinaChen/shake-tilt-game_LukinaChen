@@ -31,7 +31,7 @@ This project was built for TECHIN 512 A Au 25: Introduction To Sensors And Circu
   - Press to start/restart
 
 ## 📁 Repository Structure
-
+```
 shake-tilt-game/
 │
 ├── src/                       # All CircuitPython code
@@ -50,7 +50,7 @@ shake-tilt-game/
 │
 ├── README.md
 └── LICENSE (optional)
-
+```
 ## 🔧 Hardware Used
 
   - ESP32-C3 Super Mini
