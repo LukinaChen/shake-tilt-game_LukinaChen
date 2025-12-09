@@ -53,14 +53,16 @@ shake-tilt-game/
 ```
 ## 🔧 Hardware Used
 
-  - ESP32-C3 Super Mini
+  - Xiao ESP323C Microcontroller
   
   - ADXL345 3-axis accelerometer
   
-  - SSD1306 128×64 I²C OLED display
+  - 128x64 OLED screen
   
   - Rotary encoder with push button
   
   - NeoPixel RGB LED
   
   - Jumper wires, breadboard, USB-C cable
+
+  - LiPo Battery
